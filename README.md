@@ -4,10 +4,9 @@ Muhammad Abdur Rab Siddiqui
 <h2 align="center">💡 Experience</h2>
 
 <p align="center">
-  <marquee width="800" scrollamount="8" behavior="scroll" direction="left">
-    Black Box Labz - SQA Intern ⚡ EEG Research Assistant - Mood Cap ⚡ Undergraduate Researcher - FANUC Robotics
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Summer+2025%3A+Software+QA+Intern;@Black+Box+Labz;EEG+Software+Programmer;@University+of+Alberta;Undergraduate+Researcher;FANUC+Robotics+Project" alt="Retro LED Experience" />
 </p>
+
 
 
 
