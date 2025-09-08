@@ -14,6 +14,10 @@ Muhammad Abdur Rab Siddiqui
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Undergraduate%20Researcher%20-%20FANUC%20Robotics&width=800&height=80" alt="Undergraduate Researcher"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Black+Box+Labz+-+SQA+Intern;EEG+Research+Assistant+-+Mood+Cap;Undergraduate+Researcher+-+FANUC+Robotics" alt="LED Experience Signboard" />
+</p>
+
 
 <!--
 **AbdurRabSiddiqui/AbdurRabSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
