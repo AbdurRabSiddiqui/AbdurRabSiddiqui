@@ -4,11 +4,8 @@ Muhammad Abdur Rab Siddiqui
 <h2 align="center">💡 Experience</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Summer+2025%3A+Software+QA+Intern;@Black+Box+Labz;EEG+Software+Programmer;@University+of+Alberta;Undergraduate+Researcher;FANUC+Robotics+Project" alt="Retro LED Experience" />
+  <img src="https://svg-banners.vercel.app/api?type=fade&text1=Summer+2025:+Software+QA+Intern+@+Black+Box+Labz&text2=Summer+2025:+EEG+Research+Assistant+@+University+of+Alberta&text3=2024-25:+Undergraduate+Researcher+(DRA)+@+FANUC+Robotics+Project&width=900&height=80" />
 </p>
-
-
-
 
 <!--
 **AbdurRabSiddiqui/AbdurRabSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
