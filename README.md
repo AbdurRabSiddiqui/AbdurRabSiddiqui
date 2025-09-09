@@ -1,7 +1,5 @@
 # Hi there, I'm Muhammad Abdur Rab Siddiqui! 👋
 
-# Hi there, I'm Muhammad Abdur Rab Siddiqui! 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd+Year+Computer+Engineering+Student;Aspiring+Software+Engineer;Hands-on+Project+Experience" alt="Typing SVG" />
 </div>
