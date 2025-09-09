@@ -2,9 +2,12 @@
 
 ## 💡 Experience
 
+## 💡 Experience
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdurRabSiddiqui/your-repo/main/experience.svg" />
+  <img src="https://raw.githubusercontent.com/AbdurRabSiddiqui/AbdurRabSiddiqui/main/experience.svg" width="900" />
 </p>
+
 
 ---
 
