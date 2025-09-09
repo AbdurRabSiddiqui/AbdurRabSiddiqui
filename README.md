@@ -16,6 +16,5 @@ I'm a **3rd-year Computer Engineering student** with a passion for **software en
 - 🔭 I’ve worked on **cutting-edge web apps, AI/ML projects, and hardware-software integrations**
 - 🌱 Always exploring new tools, frameworks, and methodologies in software engineering
 - 👯 Looking to collaborate on **open-source projects and research initiatives**
-- 💬 Ask me about **Node.js, React, Next.js, Python, AI, IoT, and embedded systems**
 - ⚡ Fun fact: I enjoy **experimenting with unconventional solutions** and debugging at the hardware level
 
