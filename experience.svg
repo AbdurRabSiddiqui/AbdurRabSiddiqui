@@ -1,7 +1,16 @@
-<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .text { font-family: monospace; font-size: 18px; fill: #00ff00; text-anchor: middle; dominant-baseline: middle; }
-    .phrase { opacity: 0; animation: fade 15s infinite; }
+    .text { 
+      font-family: monospace; 
+      font-size: 60px; /* larger text to cover vertical box edges */
+      fill: #00ff00; 
+      text-anchor: middle; 
+      dominant-baseline: middle; 
+    }
+    .phrase { 
+      opacity: 0; 
+      animation: fade 15s infinite; 
+    }
     .phrase:nth-of-type(1) { animation-delay: 0s; }
     .phrase:nth-of-type(2) { animation-delay: 3s; }
     .phrase:nth-of-type(3) { animation-delay: 6s; }
@@ -16,9 +25,19 @@
   </style>
 
   <rect width="100%" height="100%" fill="black"/>
-  <text x="50%" y="50%" class="text phrase">Summer 2025: Software QA Intern @ Black Box Labz</text>
-  <text x="50%" y="50%" class="text phrase">Summer 2025: EEG Research Assistant @ University of Alberta</text>
-  <text x="50%" y="50%" class="text phrase">2024-25: Dean's Researsh Award @University of Alberta</text>
-  <text x="50%" y="50%" class="text phrase">2024-25: Full-stack and Embedded Systems Projects</text>
-  <text x="50%" y="50%" class="text phrase">Ongoing: AI and Software Engineering Explorations</text>
+  <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
+    Summer 2025: Software QA Intern @ Black Box Labz
+  </text>
+  <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
+    Summer 2025: EEG Research Assistant @ UAlberta
+  </text>
+  <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
+    2024-25: Dean's Research Award @ UAlberta
+  </text>
+  <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
+    2024-25: Full-stack and Embedded Systems Projects
+  </text>
+  <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
+    Ongoing: AI and Software Engineering Explorations
+  </text>
 </svg>
