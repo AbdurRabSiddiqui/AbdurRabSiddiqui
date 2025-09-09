@@ -1,5 +1,4 @@
 # Hi there, I'm Muhammad Abdur Rab Siddiqui! 👋
-3rd year Computer Engineeirng (Software) student at Ualberta
 
 ## 💡 Experience
 
