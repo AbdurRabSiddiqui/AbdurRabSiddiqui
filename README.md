@@ -1,6 +1,4 @@
-# Hi there, I'm Muhammad Abdur Rab Siddiqui! 👋
-
-## 💡 Experience
+# Hi! I'm Muhammad Abdur Rab Siddiqui 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdurRabSiddiqui/AbdurRabSiddiqui/main/experience.svg" width="900" />
