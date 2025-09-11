@@ -11,8 +11,8 @@
 
 I'm a **3rd-year Computer Engineering student** with a passion for **software engineering across domains**, from web development to AI-powered applications and embedded systems. I love learning by building, exploring new technologies, and solving challenging problems.
 
-- 🔭 I’ve worked on **cutting-edge web apps, AI/ML projects, and hardware-software integrations**
-- 🌱 Always exploring new tools, frameworks, and methodologies in software engineering
-- 👯 Looking to collaborate on **open-source projects and research initiatives**
-- ⚡ Fun fact: I enjoy **experimenting with unconventional solutions** on software and hardware level
+- I’ve worked on **cutting-edge web apps, AI/ML projects, and hardware-software integrations**
+- Always exploring new tools, frameworks, and methodologies in software engineering
+- Looking to collaborate on **open-source projects and research initiatives**
+- Fun fact: I enjoy **experimenting with unconventional solutions** on software and hardware level
 
