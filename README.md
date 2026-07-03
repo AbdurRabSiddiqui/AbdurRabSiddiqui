@@ -1,18 +1,36 @@
-# Hi! I'm Muhammad Abdur Rab Siddiqui 👋
+# > user: Muhammad Abdur Rab Siddiqui
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdurRabSiddiqui/AbdurRabSiddiqui/main/experience_v1.svg" width="900" />
 </p>
 
+---
+
+## > system.boot
+
+status: online  
+role: 3rd-year Computer Engineering student / ML Intern  
 
 ---
 
-## 🚀 About Me
+## > profile.about
 
-I'm a **3rd-year Computer Engineering student** with a passion for **software engineering across domains**, from web development to AI-powered applications and embedded systems. I love learning by building, exploring new technologies, and solving challenging problems.
+researching with rl and building systems across web, ai, and hardware domains  
+interested in full-stack engineering and applied machine learning   
 
-- I’ve worked on **cutting-edge web apps, AI/ML projects, and hardware-software integrations**
-- Always exploring new tools, frameworks, and methodologies in software engineering
-- Looking to collaborate on **open-source projects and research initiatives**
-- Fun fact: I enjoy **experimenting with unconventional solutions** on software and hardware level
+---
 
+## > experience.log
+
+- ML Intern @ ECE UAlberta (2026)  
+- AWS Certified Cloud Practitioner  
+- Hackathon Winner  
+- SQA Intern @ Black Box Labz (2025)  
+- Software Dev @ UAlberta (Part-time)  
+- Dean’s Research Award (2024–25)  
+
+---
+
+## > focus.target
+
+software engineering :: machine learning :: full-stack development :: embedded systems
