@@ -16,6 +16,7 @@
     .phrase:nth-of-type(3) { animation-delay: 6s; }
     .phrase:nth-of-type(4) { animation-delay: 9s; }
     .phrase:nth-of-type(5) { animation-delay: 12s; }
+    .phrase:nth-of-type(5) { animation-delay: 15s; }
 
     @keyframes fade {
       0%, 20% { opacity: 0; }
@@ -25,6 +26,9 @@
   </style>
 
   <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
+    Jan-Aug 2026: ML Intern @ECE UAlberta
+  </text>
   <text x="50%" y="50%" class="text phrase" textLength="850" lengthAdjust="spacingAndGlyphs">
     Summer 2025: Software Testing Intern @ Black Box Labz
   </text>
